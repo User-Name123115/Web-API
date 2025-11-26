@@ -1,10 +1,10 @@
 [
   {
     "username": "Pluto",
-    "password": "encrypted_or_hashed_password_here"
+    "password": "new_encrypted_or_hashed_password"
   },
   {
     "username": "Alice",
-    "password": "encrypted_or_hashed_password_here"
+    "password": "new_encrypted_or_hashed_password"
   }
 ]
