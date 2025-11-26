@@ -1,1 +1,10 @@
-
+[
+  {
+    "username": "Pluto",
+    "password": "encrypted_or_hashed_password_here"
+  },
+  {
+    "username": "Alice",
+    "password": "encrypted_or_hashed_password_here"
+  }
+]
