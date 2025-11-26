@@ -1,14 +1,10 @@
 [
   {
     "username": "Pluto",
-    "password": "new_encrypted_or_hashed_password"
-  },
-  {
-    "username": "Alice",
-    "password": "new_encrypted_or_hashed_password"
-  },
-  {
-    "username": "Syfer-eng",
     "password": "Cheechers1!1"
+  },
+  {
+    "username": "TEST",
+    "password": "TEST"
   }
 ]
